@@ -31,7 +31,12 @@ The following map:
 ]
 ```
 
-Renders this image:
+With this palette:
+
+![0](https://github.com/bennyschmidt/TileMap2D/blob/master/tile-0.png)
+![1](https://github.com/bennyschmidt/TileMap2D/blob/master/tile-1.png)
+
+Results in this image:
 
 ![Screenshot from 2023-03-20 09-37-03](https://user-images.githubusercontent.com/45407493/226408682-0730651d-7099-4261-b191-a5f10b224b43.png)
 
