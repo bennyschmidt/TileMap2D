@@ -45,3 +45,9 @@ Results in this image:
 ## Easy configuration
 
 Specify configurations like a `Palette` to draw from , `tileSize`, etc.
+
+## Active projects using `TileMap2D`
+
+[2d-map-editor](https://github.com/bennyschmidt/2d-map-editor)
+
+[Thorns & Spells](https://www.thornsandspells.com)
