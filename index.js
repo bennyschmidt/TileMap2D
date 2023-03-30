@@ -52,14 +52,14 @@ window.TileMap2D = ({
    */
 
   const onLoad = () => {
-    tiles.forEach((row, rowIndex) => {
-      row.forEach((_, colIndex) => {
+    for (let rowIndex = 0; rowIndex < tiles.length; rowIndex++) {
+      for (let colIndex = 0; colIndex < tiles[rowIndex].length; colIndex++) {
         drawTile({
           colIndex,
           rowIndex
         });
-      });
-    });
+      }
+    }
   };
 
   onLoad();
